@@ -34,5 +34,7 @@ Full Efi for Asus ADOL(I330FN_ADOL13FN). Works on Catalina.
     Screen works perfect
     Sound works perfect, automatically switch to the headset once you plug in.
     Best 2G wifi with DWA131
-    Wifi can work with [itlwm](https://github.com/zxystd/itlwm) - Work with network name "Redmi", 2G/5G
-    it's really like Macbook PRO!
+    
+Wifi can work with [itlwm](https://github.com/zxystd/itlwm) - Work with network name "Redmi", 2G/5G
+    
+# It's really like Macbook PRO!
