@@ -1,6 +1,12 @@
 # hackintosh ASUS ADOL(I330FN_ADOL13FN)
 Full Efi for Asus ADOL(I330FN_ADOL13FN). Works on Catalina.
 
+Thanks to @deniro98
+
+![Awesome](https://github.com/Toxicccxz/I330FN_ADOL13FN/blob/master/screenshot.png?raw=true)
+
+Catalina Works Cool!
+
 # System specification
 
     1.Name:           Asus adol I330FN_ADOL13FN
