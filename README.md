@@ -25,7 +25,7 @@ Catalina Works Cool!
 	2. Install MAC OS
 	3. Reboot.
   
-# Run SIRI on I330FN
+# Run SIRI on IDOL
 
 	1. Gen True SMBIOS and SN Number with Clover Configurator
 	2. Install nullethernet.kext from Rehabman
