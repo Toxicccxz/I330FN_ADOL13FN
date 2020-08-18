@@ -20,7 +20,6 @@ Catalina Works Cool!
     
 # Step to install
 
-	0. get wired keyboard and mouse
 	1. Replace your EFI to this EFI
 	2. Install MAC OS
 	3. Reboot.
