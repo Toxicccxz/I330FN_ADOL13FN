@@ -38,6 +38,7 @@ Catalina Works Cool!
     Keyboard perfect
     Screen works perfect
     Sound works perfect, automatically switch to the headset once you plug in.
+    Even keyboardbacklight adjustment is working!
     Best 2G wifi with DWA131
     
 Wifi can work with [itlwm](https://github.com/zxystd/itlwm) - Work with network name "Redmi", 2G/5G
