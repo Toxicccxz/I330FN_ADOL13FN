@@ -203,7 +203,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>Arguments</key>
-		<string>dart=0 applbkl=1 brcmfx-country=#a -brcmfxwowl darkwake=0 kext-dev-mode=1 vsmcgen=1</string>
+		<string>dart=0 applbkl=1 brcmfx-country=#a -brcmfxwowl darkwake=0 kext-dev-mode=1 vsmcgen=1 igfxonln=1</string>
 		<key>XMPDetection</key>
 		<false/>
 		<key>Timeout</key>
@@ -213,6 +213,8 @@
 	</dict>
 	<key>GUI</key>
 	<dict>
+		<key>EmbeddedThemeType</key>
+		<string>Dark</string>
 		<key>Mouse</key>
 		<dict>
 			<key>Mirror</key>
